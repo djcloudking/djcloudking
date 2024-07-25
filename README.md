@@ -1,6 +1,5 @@
 ## Hello there 👋 Thanks for reading my GitHub profile
 
-
 This is my personal repository like an overview of my cloud portfolio
 
 
@@ -10,9 +9,13 @@ This is my personal repository like an overview of my cloud portfolio
 🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud & DevOps Engineer. I have experience in Cloud Consulting, Infrastructure & Cloud Operations. 
 
 😄 I live and breathe Cloud Technologies: 
+
 💠 Able to apply cloud engineering skills and mindset to the operation of applications and infrastructures to ensure availability, reliability, security and performance of products.
+
 💠 Capable of engaging in business-level and technical conversations at multiple levels of the organization.
+
 💠 Possess hands-on experience with most used Cloud and DevOps Engineering Technology stacks. 
+
 💠 Dedicate to continuous learning in the ever-evolving tech landscape embracing new challenges and staying updated with the latest industry trends.
 
 
@@ -43,7 +46,6 @@ This is my personal repository like an overview of my cloud portfolio
 | Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
 | Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a> |
-| Network & Security                            | Network & Security |
 | Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/Using%20Terraform%20in%20DevOps/Using%20Terraform%20To%20Deploy%20a%20Web%20Server.md"> Deploy a Web Server Using Terraform </a>|
 | Infrastructure as Code: AWS CloudFormation    | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>|
 | Configuration Management: Ansible             | Configuration Management: Ansible|
@@ -55,7 +57,6 @@ This is my personal repository like an overview of my cloud portfolio
 | CI/CD: GitHub Actions                         | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
 | CI/CD: AWS CodePipeline                       | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
 | Monitoring                | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
-| Logging                                       | Logging |
 
 
 ## Technologies
@@ -84,10 +85,9 @@ This is my personal repository like an overview of my cloud portfolio
 <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=flat-square&logo=microsoft-office&logoColor=white" />
 
 
-<!--  ### Certifications & Course
+### Certifications & Course
 
 <a href="https://github.com/djcloudking/certifications-and-courses"> Find the courses and certifications I completed in this repository. </a>
-
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
