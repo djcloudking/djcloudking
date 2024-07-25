@@ -46,7 +46,7 @@ This is my personal repository like an overview of my cloud portfolio
 | Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
 | Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a> |
-| Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/Using%20Terraform%20in%20DevOps/Using%20Terraform%20To%20Deploy%20a%20Web%20Server.md"> Deploy a Web Server Using Terraform </a>|
+| Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/6_Build%20a%20DEV%20environment%20on%20AWS/Using%20Terraform%20to%20build%20a%20DEV%20environment%20on%20AWS.md"> Build a DEV environment on AWS Using Terraform </a>|
 | Infrastructure as Code: AWS CloudFormation    | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>|
 | Configuration Management: Ansible             | Configuration Management: Ansible|
 | Containers: Docker                            | Docker   |
