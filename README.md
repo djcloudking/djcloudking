@@ -95,5 +95,3 @@ This is my personal repository like an overview of my cloud portfolio
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
-
--->
