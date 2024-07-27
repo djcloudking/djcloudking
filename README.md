@@ -1,9 +1,9 @@
 ## Hello there 👋 Thanks for reading my GitHub profile
 
-This is my personal repository like an overview of my cloud portfolio
+This is like my introduction to you and an overview of my cloud portfolio
 
 
-### Find out more about me
+## Find out more about me
 
 
 🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud & DevOps Engineer. I have experience in Cloud Consulting, Infrastructure & Cloud Operations. 
@@ -19,7 +19,7 @@ This is my personal repository like an overview of my cloud portfolio
 💠 Dedicate to continuous learning in the ever-evolving tech landscape embracing new challenges and staying updated with the latest industry trends.
 
 
-### Feel free to connect with me here:
+## Feel free to connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dj%20Kone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
@@ -34,29 +34,32 @@ This is my personal repository like an overview of my cloud portfolio
 🌱 My journey in cloud engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects, outside of work, I worked on to foster my continuous learning journey.
 
 
-## Skills
+## Cloud & DevOps Portfolio
  
 
-| Skill                                         | Associated Project         |
+| Project                                       | Associated Skills          |
 |-----------------------------------------------|----------------------------|
-| Cloud platform: AWS                           | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a>|                    
-| Cloud platform: AWS                          | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a>|
-| AWS DevOps                         | <a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a>|
-| Programming: Python                           | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
-| Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
-| Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
-| Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a> |
-| Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/6_Build%20a%20DEV%20environment%20on%20AWS/Using%20Terraform%20to%20build%20a%20DEV%20environment%20on%20AWS.md"> Build a DEV environment on AWS Using Terraform </a>|
-| Infrastructure as Code: AWS CloudFormation    | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>|
-| Configuration Management: Ansible             | Configuration Management: Ansible|
-| Containers: Docker                            | Docker   |
+| <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a>                  | Cloud platform: AWS |                    
+| <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a>                                          | Cloud platform: AWS |
+| <a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a>                                                        | AWS DevOps |
+| <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a> | Programming: Python |
+| <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>            | Scripting: Bash, Shell, Yaml, Json |
+| <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>         | Server Administration: Linux, Apache, Nginx, Windows |
+| <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a>     | Databases: NoSQL, AWS DynamoDB, SQL, MySQL |
+| <a href="https://github.com/djcloudking/terraform-challenges/blob/main/6_Build%20a%20DEV%20environment%20on%20AWS/Using%20Terraform%20to%20build%20a%20DEV%20environment%20on%20AWS.md"> Build a DEV environment on AWS Using Terraform </a>             | Infrastructure as Code: Terraform |
+| <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>    | Infrastructure as Code: AWS CloudFormation|
+| Ansible             | Configuration Management: Ansible|
+| Docker                            | Containers: Docker   |
 | Containers: Docker                            |  AWS ECS   |
-| Orchestrator: Kubernetes                      | Kubernetes |
-| Orchestrator: EKS                             | EKS |
-| CI/CD: Jenkins                                | <a href="https://github.com/djcloudking/ci-cd-challenges/blob/main/Jenkins/Deploying%20CI%20CD%20pipelines%20using%20Jenkins%20and%20Terraform.md">Deploying CI CD pipelines using Jenkins and Terraform </a>  |
-| CI/CD: GitHub Actions                         | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
-| CI/CD: AWS CodePipeline                       | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
-| Monitoring                | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
+| Kubernetes                      | Orchestrator: Kubernetes |
+| EKS                             | Orchestrator: EKS |
+| <a href="https://github.com/djcloudking/ci-cd-challenges/blob/main/Jenkins/Deploying%20CI%20CD%20pipelines%20using%20Jenkins%20and%20Terraform.md">Deploying CI CD pipelines using Jenkins and Terraform </a>                                | CI/CD: Jenkins  |
+| <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>                        | CI/CD: GitHub Actions |  
+| <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>                        | CI/CD: AWS CodePipeline |
+| <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a>   | Monitoring |
+
+
+Find more Cloud and DevOps projects below.
 
 
 ## Technologies
