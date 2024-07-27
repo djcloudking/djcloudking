@@ -25,7 +25,7 @@ This is like my introduction to you and an overview of my cloud portfolio
 [![Linkedin Badge](https://img.shields.io/badge/-Dj%20Kone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
 [![Medium Badge](https://img.shields.io/badge/DJ.%20Kone-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@djakkone)](https://medium.com/@djakkone)
 [![Gmail Badge](https://img.shields.io/badge/-djkone2025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
-[![FahmaCloud Blog](https://img.shields.io/badge/-FahmaCloud_Blog-4CAF50?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fahmacloud.com/blog)](https://www.fahmacloud.com/blog)
+
 
 
 ## Objective
