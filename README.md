@@ -50,16 +50,16 @@ This is like my introduction to you and an overview of my cloud portfolio
 | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>    | Infrastructure as Code: AWS CloudFormation|
 | Ansible             | Configuration Management: Ansible|
 | Docker                            | Containers: Docker   |
-| Containers: Docker                            |  AWS ECS   |
+| AWS ECS                            | Containers: ECS    |
 | Kubernetes                      | Orchestrator: Kubernetes |
-| EKS                             | Orchestrator: EKS |
+| AWS EKS                             | Orchestrator: EKS |
 | <a href="https://github.com/djcloudking/ci-cd-challenges/blob/main/Jenkins/Deploying%20CI%20CD%20pipelines%20using%20Jenkins%20and%20Terraform.md">Deploying CI CD pipelines using Jenkins and Terraform </a>                                | CI/CD: Jenkins  |
 | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>                        | CI/CD: GitHub Actions |  
 | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>                        | CI/CD: AWS CodePipeline |
 | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a>   | Monitoring |
 
 
-Find more Cloud and DevOps projects below.
+Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudking?tab=repositories"> repositories </a> 
 
 
 ## Technologies
