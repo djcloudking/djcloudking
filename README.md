@@ -49,7 +49,7 @@ This is like my introduction to you and an overview of my cloud portfolio
 | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/6_Build%20a%20DEV%20environment%20on%20AWS/Using%20Terraform%20to%20build%20a%20DEV%20environment%20on%20AWS.md"> Build a DEV environment on AWS Using Terraform </a>             | Infrastructure as Code: Terraform |
 | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>    | Infrastructure as Code: AWS CloudFormation|
 | Ansible             | Configuration Management: Ansible|
-| Docker                            | Containers: Docker   |
+|  <a href="https://medium.com/@djakkone/devops-tools-you-should-know-docker-6ceda5e3dbd7">DevOps Tools You Should Know: Docker</a>| Containers: Docker   |
 | AWS ECS                            | Containers: ECS    |
 | Kubernetes                      | Orchestrator: Kubernetes |
 | AWS EKS                             | Orchestrator: EKS |
