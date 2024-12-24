@@ -1,6 +1,6 @@
 ## Hello there 👋 Thanks for reading my GitHub profile
 
-This is like my introduction to you and an overview of my cloud portfolio
+This is like my introduction to you  
 
 
 ## Find out more about me
@@ -69,10 +69,10 @@ This is like my introduction to you and an overview of my cloud portfolio
 Find all my repo here =>> https://github.com/djcloudking?tab=repositories 
 
 
-## Cloud & DevOps Portfolio
+## Most Viewed Cloud Labs and DevOps Tutorials
  
 
-| Project                                       | Associated Skills          |
+| Labs / Tutorials                              | Associated Skills          |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a>                  | Cloud platform: AWS |                    
 | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a>                                          | Cloud platform: AWS |
