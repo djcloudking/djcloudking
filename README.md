@@ -6,17 +6,11 @@ This is like my introduction to you
 ## Find out more about me
 
 
-🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud & DevOps Engineer. I have experience in Cloud Consulting, Infrastructure & Cloud Operations. 
+🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer, Cloud consultant, Educator, Mentor, & Advocate with experience in Cloud Consulting, DevOps, Cloud Infrastructure & Cloud Operations. 
 
-😄 I live and breathe Cloud Technologies: 
+😄 I live and breathe Cloud Technologies.
 
-💠 Able to apply cloud engineering skills and mindset to the operation of applications and infrastructures to ensure availability, reliability, security and performance of products.
-
-💠 Capable of engaging in business-level and technical conversations at multiple levels of the organization.
-
-💠 Possess hands-on experience with most used Cloud and DevOps Engineering Technology stacks. 
-
-💠 Dedicate to continuous learning in the ever-evolving tech landscape embracing new challenges and staying updated with the latest industry trends.
+🌱 My journey in cloud engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects, outside of work, I worked on to foster my continuous learning journey.
 
 
 ## Feel free to connect with me here:
@@ -26,15 +20,10 @@ This is like my introduction to you
 [![WordPress Badge](https://img.shields.io/badge/Cloud%20with%20DJ-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
 [![Medium Badge](https://img.shields.io/badge/DJ.%20Kone-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@djakkone)](https://medium.com/@djakkone)
 [![Gmail Badge](https://img.shields.io/badge/-djkone2025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/Cloud%20With%20DJ-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@cloudwithdj)](https://www.youtube.com/@cloudwithdj)
 
 
-## Objective
-
-
-🌱 My journey in cloud engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects, outside of work, I worked on to foster my continuous learning journey.
-
-
-## Technologies
+## Technology Stacks and experience
 
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -62,11 +51,6 @@ This is like my introduction to you
 <img src="https://img.shields.io/badge/OneDrive-%234AABE1.svg?style=flat-square&logo=onedrive&logoColor=white" />
 <img src="https://img.shields.io/badge/SharePoint-%237276BA.svg?style=flat-square&logo=sharepoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=flat-square&logo=microsoft-office&logoColor=white" />
-
-
-## Popular repositories
-
-Find all my repo here =>> https://github.com/djcloudking?tab=repositories 
 
 
 ## Most Viewed Cloud Labs and DevOps Tutorials
