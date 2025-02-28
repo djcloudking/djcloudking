@@ -69,7 +69,7 @@ This is like my introduction to you
 | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>    | Infrastructure as Code: AWS CloudFormation|
 | Ansible             | Configuration Management: Ansible|
 |  <a href="https://medium.com/@djakkone/devops-tools-you-should-know-docker-6ceda5e3dbd7">DevOps Tools You Should Know: Docker</a>| Containers: Docker   |
-| <a href="[https://medium.com/@djakkone/devops-tools-you-should-know-docker-6ceda5e3dbd7](https://cloudwithdj.com/how-to-deploy-a-container-with-amazon-ecs/)">How To Deploy a Container with Amazon ECS</a>                            | Containers: ECS    |
+| <a href="https://cloudwithdj.com/how-to-deploy-a-container-with-amazon-ecs/">How To Deploy a Container with Amazon ECS</a>                            | Containers: ECS    |
 | Kubernetes                      | Orchestrator: Kubernetes |
 | <a href="https://cloudwithdj.com/creating-eks-cluster-using-terraform-modules/">Creating EKS Cluster using Terraform Modules </a>                               | Orchestrator: EKS |
 | <a href="https://github.com/djcloudking/ci-cd-challenges/blob/main/Jenkins/Deploying%20CI%20CD%20pipelines%20using%20Jenkins%20and%20Terraform.md">Deploying CI CD pipelines using Jenkins and Terraform </a>                                | CI/CD: Jenkins  |
