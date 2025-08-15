@@ -54,8 +54,8 @@ Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudki
 ## Technology Stacks and experience
 
 <!-- Cloud Platforms -->
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]
 <!-- IaC -->
 <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -68,13 +68,13 @@ Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudki
 <img src="https://img.shields.io/badge/AWS%20CodeDeploy-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/>
 <!-- Scripting & Programming -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23cb171e.svg?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat-square&logo=json&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-%23623CE4.svg?style=flat-square&logo=hashicorp&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-%23623CE4.svg?style=flat-square&logo=hashicorp&logoColor=white)]
 <!-- Containers & Orchestration -->
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20ECS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
