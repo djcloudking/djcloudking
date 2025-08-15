@@ -53,32 +53,20 @@ Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudki
 
 ## Technology Stacks and experience
 
-
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/> </br>
-
-
-<img src="https://img.shields.io/badge/HashiCorp%20Vault-%2312BEE3.svg?style=flat-square&logo=vault&logoColor=white" />
- 
-
-
 <!-- Cloud Platforms -->
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
 <!-- IaC -->
 <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20CDK-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=EE0000"/>
-
 <!-- CI/CD -->
 <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20CodeBuild-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20CodeDeploy-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/>
-
 <!-- Scripting & Programming -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -87,17 +75,14 @@ Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudki
 ![YAML](https://img.shields.io/badge/YAML-%23cb171e.svg?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat-square&logo=json&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%23623CE4.svg?style=flat-square&logo=hashicorp&logoColor=white)
-
 <!-- Containers & Orchestration -->
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20ECS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20EKS-%23232F3E.svg?style=flat-square&logo=amazon-eks&logoColor=white" />
-
 <!-- System Administration -->
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white"/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 <!-- Databases -->
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
@@ -105,12 +90,10 @@ Find more Cloud and DevOps projects in the <a href="https://github.com/djcloudki
 <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=flat-square&logo=amazon-rds&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-%23269539.svg?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white"/>
-
 <!-- Documentation -->
 ![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-4285F4?style=flat-square&logo=readthedocs&logoColor=white)
 ![Runbooks](https://img.shields.io/badge/Runbooks-4285F4?style=flat-square&logo=bookstack&logoColor=white)
 ![Operational Playbooks](https://img.shields.io/badge/Playbooks-FF6F00?style=flat-square&logo=google-docs&logoColor=white)
-
 <!-- Tools -->
 <img src="https://img.shields.io/badge/AWS%20CLI-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
