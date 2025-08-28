@@ -1,7 +1,5 @@
 ## Hello there 👋 I am [DJ'](https://cloudwithdj.com/)
 
----
-
 This is like my introduction to you. 
 
 🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer, Cloud consultant, Educator, Mentor, & Advocate with experience in Cloud Consulting, DevOps, Cloud Infrastructure & Cloud Operations. 
@@ -52,16 +50,13 @@ This is like my introduction to you.
 
 ## Expertise and experience
 
-- [See my updated resume](https://github.com/djcloudking/resume-portfolio)
+[See my updated resume](https://github.com/djcloudking/resume-portfolio)
 
 
 ---
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
