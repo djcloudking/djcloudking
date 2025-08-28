@@ -1,10 +1,6 @@
 ## Hello there 👋 Thanks for reading my GitHub profile
 
-This is like my introduction to you  
-
-
-## Find out more about me
-
+This is like my introduction to you. 
 
 🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer, Cloud consultant, Educator, Mentor, & Advocate with experience in Cloud Consulting, DevOps, Cloud Infrastructure & Cloud Operations. 
 
@@ -13,59 +9,43 @@ This is like my introduction to you
 
 ## Feel free to connect with me here:
 
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
 [![WordPress Badge](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/Newsletter-FF0000?style=flat-square&logo=convertkit&logoColor=white&link=https://www.whatsnewcloud.com/)](https://www.whatsnewcloud.com/)
 
 
-## Technology Stacks and experience
+## Latest Projects
+
+- [Automating Image Analysis in a Photo-Sharing Application Using AWS Lambda, S3, Rekognition, and DynamoDB with CDK and Python](https://github.com/djcloudking/photo-sharing-application-project)
+- [Automating a Serverless CRUD REST API with Node.js - Use Case: Coffee Shop](https://github.com/djcloudking/coffee-shop-crud-api-node-js-project)
+- [Building and deploying a Multi-Country Payroll Software using Terraform](https://github.com/djcloudking/terraform-projects/tree/main/13_Hybrid%20cloud%20deployment)
+- [Automate S3 Lifecycle using Python](https://github.com/djcloudking/automate-s3-lifecycle-policies)
+- [Implementing AWS Cost Optimization](https://github.com/djcloudking/aws-cost-optimization-with-ebs-snapshot-and-lambda-project)
+
+[Find more Projects ](https://github.com/djcloudking?tab=repositories)
 
 
-####  Cloud Platforms
+## Latest Blogs
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+- <a href="https://cloudwithdj.com/how-i-set-up-multi-cloud-infrastructure-with-terraform/"> How I Set Up Multi-Cloud Infrastructure with Terraform</a>
+- <a href="https://cloudwithdj.com/4-system-design-tradeoffs-you-should-know/"> 4 System Design Tradeoffs You Should Know </a>
+- <a href="https://cloudwithdj.com/key-ports-protocols-and-tools-to-know-when-working-in-a-linux-environment/">Key Ports, Protocols, and Tools to Know When Working in a Linux Environment </a>
+- <a href="https://cloudwithdj.com/how-i-troubleshoot-when-ec2-instance-terminates-unexpectedly/"> How I troubleshoot when EC2 instance terminates unexpectedly </a>
+- <a href="https://cloudwithdj.com/how-i-troubleshoot-aws-when-sns-notifications-are-not-being-sent/"> How I Troubleshoot AWS when SNS Notifications Are Not Being Sent? </a>
+- <a href="https://cloudwithdj.com/s3-glacier-vs-s3-standard-choosing-the-right-storage-class-for-your-data/"> S3 Glacier VS S3 Standard: Choosing the Right Storage Class for Your Data </a>
 
+[Find more blog posts](https://cloudwithdj.com.blog)
 
-#### Infrastructure as Code
+## Expertise and experience
 
-<img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20CDK-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=EE0000"/>
-
-
-#### CI/CD
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20CodeBuild-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20CodeDeploy-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/> 
-
-
-#### Scripting & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-%23cb171e.svg?style=flat-square&logo=yaml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat-square&logo=json&logoColor=white) ![HCL](https://img.shields.io/badge/HCL-%23623CE4.svg?style=flat-square&logo=hashicorp&logoColor=white)
-
-
-#### Containers & Orchestrations:
-
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20ECS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20EKS-%23232F3E.svg?style=flat-square&logo=amazon-eks&logoColor=white" />
-
-
-#### Operating Systems & Administration
-
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white"/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-#### Databases
-
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=flat-square&logo=amazon-rds&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-%23269539.svg?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white"/>
-
-
-#### Other Tools
-
-<img src="https://img.shields.io/badge/AWS%20CLI-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB700?style=flat-square&logo=servicenow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) <img src="https://img.shields.io/badge/Asana-%2326364A.svg?style=flat-square&logo=asana&logoColor=white" /> <img src="https://img.shields.io/badge/Box-%23004E98.svg?style=flat-square&logo=box&logoColor=white" /> <img src="https://img.shields.io/badge/OneDrive-%234AABE1.svg?style=flat-square&logo=onedrive&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-%237276BA.svg?style=flat-square&logo=sharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=flat-square&logo=microsoft-office&logoColor=white" />
+[See my updated resume](https://github.com/djcloudking/resume-portfolio)
 
 
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
