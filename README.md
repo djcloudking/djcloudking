@@ -1,11 +1,15 @@
-## Hello there 👋 Thanks for reading my GitHub profile
+## Hello there 👋 I am [DJ'](https://cloudwithdj.com/)
+
+---
 
 This is like my introduction to you. 
 
 🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer, Cloud consultant, Educator, Mentor, & Advocate with experience in Cloud Consulting, DevOps, Cloud Infrastructure & Cloud Operations. 
 
-🌱 My journey in cloud engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects, outside of work, I worked on to foster my continuous learning journey.
+🌱 I am now eager to show you my journey and personal projects, outside of work.
 
+
+---
 
 ## Feel free to connect with me here:
 
@@ -15,6 +19,8 @@ This is like my introduction to you.
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/Newsletter-FF0000?style=flat-square&logo=convertkit&logoColor=white&link=https://www.whatsnewcloud.com/)](https://www.whatsnewcloud.com/)
 
+
+---
 
 ## Latest Projects
 
@@ -27,6 +33,8 @@ This is like my introduction to you.
 [Find more Projects ](https://github.com/djcloudking?tab=repositories)
 
 
+---
+
 ## Latest Blogs
 
 - <a href="https://cloudwithdj.com/how-i-set-up-multi-cloud-infrastructure-with-terraform/"> How I Set Up Multi-Cloud Infrastructure with Terraform</a>
@@ -36,16 +44,21 @@ This is like my introduction to you.
 - <a href="https://cloudwithdj.com/how-i-troubleshoot-aws-when-sns-notifications-are-not-being-sent/"> How I Troubleshoot AWS when SNS Notifications Are Not Being Sent? </a>
 - <a href="https://cloudwithdj.com/s3-glacier-vs-s3-standard-choosing-the-right-storage-class-for-your-data/"> S3 Glacier VS S3 Standard: Choosing the Right Storage Class for Your Data </a>
 
-[Find more blog posts](https://cloudwithdj.com.blog)
+- [Find more blog posts](https://cloudwithdj.com.blog)
+  
+
+---
 
 ## Expertise and experience
 
-[See my updated resume](https://github.com/djcloudking/resume-portfolio)
+- [See my updated resume](https://github.com/djcloudking/resume-portfolio)
 
 
+---
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
