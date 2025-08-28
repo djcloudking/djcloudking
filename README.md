@@ -45,7 +45,7 @@ This is like my introduction to you.
 - <a href="https://cloudwithdj.com/how-i-troubleshoot-aws-when-sns-notifications-are-not-being-sent/"> How I Troubleshoot AWS when SNS Notifications Are Not Being Sent? </a>
 - <a href="https://cloudwithdj.com/s3-glacier-vs-s3-standard-choosing-the-right-storage-class-for-your-data/"> S3 Glacier VS S3 Standard: Choosing the Right Storage Class for Your Data </a>
 
-- [Find more blog posts](https://cloudwithdj.com.blog)
+[Find more blog posts](https://cloudwithdj.com.blog)
   
 
 ---
@@ -59,11 +59,9 @@ This is like my introduction to you.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
