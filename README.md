@@ -14,11 +14,10 @@ This is like my introduction to you
 ## Feel free to connect with me here:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dj%20Kone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
-[![WordPress Badge](https://img.shields.io/badge/Cloud%20with%20DJ-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
-[![Medium Badge](https://img.shields.io/badge/DJ.%20Kone-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@djakkone)](https://medium.com/@djakkone)
-[![Gmail Badge](https://img.shields.io/badge/-djkone2025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/Cloud%20With%20DJ-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@cloudwithdj)](https://www.youtube.com/@cloudwithdj)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
+[![WordPress Badge](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/Newsletter-FF0000?style=flat-square&logo=convertkit&logoColor=white&link=https://www.whatsnewcloud.com/)](https://www.whatsnewcloud.com/)
 
 
 ## Technology Stacks and experience
