@@ -13,7 +13,6 @@ This is like my introduction to you.
 
 ## Feel free to connect with me here:
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
 [![WordPress Badge](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
@@ -24,11 +23,13 @@ This is like my introduction to you.
 
 ## Latest Projects
 
-- [Automating Image Analysis in a Photo-Sharing Application Using AWS Lambda, S3, Rekognition, and DynamoDB with CDK and Python](https://github.com/djcloudking/photo-sharing-application-project)
-- [Automating a Serverless CRUD REST API with Node.js - Use Case: Coffee Shop](https://github.com/djcloudking/coffee-shop-crud-api-node-js-project)
-- [Building and deploying a Multi-Country Payroll Software using Terraform](https://github.com/djcloudking/terraform-projects/tree/main/13_Hybrid%20cloud%20deployment)
-- [Automate S3 Lifecycle using Python](https://github.com/djcloudking/automate-s3-lifecycle-policies)
-- [Implementing AWS Cost Optimization](https://github.com/djcloudking/aws-cost-optimization-with-ebs-snapshot-and-lambda-project)
+- [Automated Image Analysis in a Photo-Sharing App using Python on AWS](https://github.com/djcloudking/photo-sharing-application-project)
+- [Automated a Serverless Coffee Shop API on AWS](https://github.com/djcloudking/coffee-shop-crud-api-node-js-project)
+- [Built a Spotify playlist using Terraform](https://cloudwithdj.com/creating-a-spotify-playlist-with-terraform/).
+- [Built a production-ready React app using scripts on GitHub Pages](https://cloudwithdj.com/i-built-a-production-ready-react-app-and-deployed-it-with-github-pages/)
+- [Built and deployed a Multi-Country Payroll Software using Terraform](https://github.com/djcloudking/terraform-projects/tree/main/13_Hybrid%20cloud%20deployment)
+- [Automated AWS S3 Lifecycle using Python](https://github.com/djcloudking/automate-s3-lifecycle-policies)
+- [Implemented AWS Cost Optimization using EBS, Lambda, EC2](https://github.com/djcloudking/aws-cost-optimization-with-ebs-snapshot-and-lambda-project)
 
 [Find more Projects ](https://github.com/djcloudking?tab=repositories)
 
@@ -56,9 +57,13 @@ This is like my introduction to you.
 
 ---
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact)
+
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
