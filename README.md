@@ -36,12 +36,13 @@ This is like my introduction to you.
 
 ## Latest Blogs
 
+- <a href="https://cloudwithdj.com/how-to-troubleshoot-unexpected-high-costs-in-aws-cost-explorer/"> How to Troubleshoot Unexpected High Costs in AWS Cost Explorer </a>
 - <a href="https://cloudwithdj.com/how-i-set-up-multi-cloud-infrastructure-with-terraform/"> How I Set Up Multi-Cloud Infrastructure with Terraform</a>
 - <a href="https://cloudwithdj.com/4-system-design-tradeoffs-you-should-know/"> 4 System Design Tradeoffs You Should Know </a>
 - <a href="https://cloudwithdj.com/key-ports-protocols-and-tools-to-know-when-working-in-a-linux-environment/">Key Ports, Protocols, and Tools to Know When Working in a Linux Environment </a>
 - <a href="https://cloudwithdj.com/how-i-troubleshoot-when-ec2-instance-terminates-unexpectedly/"> How I troubleshoot when EC2 instance terminates unexpectedly </a>
 - <a href="https://cloudwithdj.com/how-i-troubleshoot-aws-when-sns-notifications-are-not-being-sent/"> How I Troubleshoot AWS when SNS Notifications Are Not Being Sent? </a>
-- <a href="https://cloudwithdj.com/s3-glacier-vs-s3-standard-choosing-the-right-storage-class-for-your-data/"> S3 Glacier VS S3 Standard: Choosing the Right Storage Class for Your Data </a>
+
 
 [Find more blog posts](https://cloudwithdj.com.blog)
   
