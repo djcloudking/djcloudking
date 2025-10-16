@@ -9,6 +9,13 @@ This is like my introduction to you.
 
 ---
 
+## Expertise and experience
+
+[See my updated resume](https://github.com/djcloudking/resume-portfolio)
+
+
+---
+
 ## Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
@@ -25,9 +32,7 @@ This is like my introduction to you.
 - [Automated a Serverless Coffee Shop API on AWS](https://github.com/djcloudking/coffee-shop-crud-api-node-js-project)
 - [Built a Spotify playlist using Terraform](https://cloudwithdj.com/creating-a-spotify-playlist-with-terraform/).
 - [Built a production-ready React app using scripts on GitHub Pages](https://cloudwithdj.com/i-built-a-production-ready-react-app-and-deployed-it-with-github-pages/)
-- [Built and deployed a Multi-Country Payroll Software using Terraform](https://github.com/djcloudking/terraform-projects/tree/main/13_Hybrid%20cloud%20deployment)
-- [Automated AWS S3 Lifecycle using Python](https://github.com/djcloudking/automate-s3-lifecycle-policies)
-- [Implemented AWS Cost Optimization using EBS, Lambda, EC2](https://github.com/djcloudking/aws-cost-optimization-with-ebs-snapshot-and-lambda-project)
+
 
 [Find more Projects ](https://github.com/djcloudking?tab=repositories)
 
@@ -38,23 +43,10 @@ This is like my introduction to you.
 
 - <a href="https://cloudwithdj.com/how-i-troubleshoot-when-lambda-deployment-failed/"> How I troubleshoot when Lambda deployment failed </a>
 - <a href="https://cloudwithdj.com/using-terraform-to-deploy-a-web-server-and-run-a-bootstrap-script/">Using Terraform To Deploy a Web Server and Run a Bootstrap Script </a>
-- <a href="https://cloudwithdj.com/how-to-troubleshoot-unexpected-high-costs-in-aws-cost-explorer/"> How to Troubleshoot Unexpected High Costs in AWS Cost Explorer </a>
-- <a href="https://cloudwithdj.com/how-i-set-up-multi-cloud-infrastructure-with-terraform/"> How I Set Up Multi-Cloud Infrastructure with Terraform</a>
-- <a href="https://cloudwithdj.com/4-system-design-tradeoffs-you-should-know/"> 4 System Design Tradeoffs You Should Know </a>
-- <a href="https://cloudwithdj.com/key-ports-protocols-and-tools-to-know-when-working-in-a-linux-environment/">Key Ports, Protocols, and Tools to Know When Working in a Linux Environment </a>
-- <a href="https://cloudwithdj.com/how-i-troubleshoot-when-ec2-instance-terminates-unexpectedly/"> How I troubleshoot when EC2 instance terminates unexpectedly </a>
-
 
 
 [Find more blog posts](https://cloudwithdj.com)
   
-
----
-
-## Expertise and experience
-
-[See my updated resume](https://github.com/djcloudking/resume-portfolio)
-
 
 ---
 
