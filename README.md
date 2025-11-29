@@ -2,9 +2,11 @@
 
 This is like my introduction to you. 
 
-🔭 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer, Cloud consultant, Educator, Mentor, & Advocate with experience in Cloud Consulting, DevOps, Cloud Infrastructure & Cloud Operations. 
+🔭 I am Djakaridia Kone, also known as DJ. I am a Technology Enthusiast. 
+I have touched almost everything in IT: Help Desk, Desktop Support, System Administration, QA testing, Cloud Engineering, AI/ML, and many more. 
 
-🌱 I am now eager to show you my journey and personal projects, outside of work.
+🌱 This GitHub profile is focused on showing my work in Consulting, Education, Advocacy & Mentorship in Cloud, DevOps, Infrastructure & Cloud Operations. 
+
 
 
 ---
@@ -41,7 +43,9 @@ This is like my introduction to you.
 
 ## Latest Blogs
 
-- <a href="https://cloudwithdj.com/how-i-troubleshoot-when-lambda-deployment-failed/"> How I troubleshoot when Lambda deployment failed </a>
+- <a href="https://cloudwithdj.com/10-concepts-to-learn-to-get-started-with-terraform/"> 10 concepts to learn to get started with Terraform </a>
+- <a href="https://cloudwithdj.com/how-i-troubleshoot-when-aws-budgets-dont-send-alerts/"> How I Troubleshoot When AWS Budgets Don’t Send Alerts </a>
+- <a href="https://cloudwithdj.com/10-ci-cd-concepts-you-should-learn/"> 10 CI/CD Concepts You Should Learn </a>
 - <a href="https://cloudwithdj.com/using-terraform-to-deploy-a-web-server-and-run-a-bootstrap-script/">Using Terraform To Deploy a Web Server and Run a Bootstrap Script </a>
 
 
