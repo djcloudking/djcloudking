@@ -1,61 +1,59 @@
-## Hello there 👋 I am [DJ'](https://cloudwithdj.com/)
+# 👋 Hi, I’m DJ'Kone
+---
 
-This is like my introduction to you. 
+**Cloud Operations & Infrastructure Support Engineer**  
+U.S. Navy Veteran focused on real-world AWS operations, system reliability, and production support.
 
-🔭 I am Djakaridia Kone, also known as DJ. I am a Technology Enthusiast. 
-I have touched almost everything in IT: Help Desk, Desktop Support, System Administration, QA testing, Cloud Engineering, AI/ML, and many more. 
+<!--
+🔍 I’m currently open to contract and full-time roles in:
+- Cloud Operations
+- Infrastructure Support
+- Platform Support
+- NOC / SRE-adjacent
+- Data Center / Systems Operations
 
-🌱 This GitHub profile is focused on showing my work in Consulting, Education, Advocacy & Mentorship in Cloud, DevOps, Infrastructure & Cloud Operations. 
-
-
+📫 Contact: djkone2025@gmail.com | LinkedIn: linkedin.com/in/djakaridiakone
+-->
 
 ---
 
-## Expertise and experience
-
-[See my updated resume](https://github.com/djcloudking/resume-portfolio)
-
+## 🚀 What I Focus On
+I solve problems and keep systems running. My strengths include:
+- 🛠 AWS operational troubleshooting (EC2, IAM, VPC, CloudWatch, logs, recoverability)
+- 🐧 Linux & Windows server support
+- 📋 Incident response and ticket-based workflows
+- ⚙ Infrastructure as Code with Terraform and CloudFormation
+- 📘 Clear documentation, runbooks, and SOPs
 
 ---
 
-## Feel free to connect with me here:
+## 📌 Featured Projects (Pinned Below)
+These repos showcase real operational automation and troubleshooting:
+- **troubleshooting-aws-common-issues** – Common AWS support scenarios
+- **terraform-projects** – Infrastructure code patterns
+- **aws-projects** – AWS automation examples
+- **real-time-aws-cost-dashboard-project** – Dashboard for monitoring cost and usage
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
-[![WordPress Badge](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white&link=https://cloudwithdj.com)](https://cloudwithdj.com)
+Each repo has a README explaining what it does and how it works.
+
+---
+
+## ⛅ Skills
+**Cloud:** AWS (EC2, VPC, IAM, RDS, Lambda, CloudWatch)  
+**Systems:** Linux & Windows administration, Active Directory  
+**Tools:** ServiceNow, JIRA, Bash, Python, Terraform  
+**Ops:** Incident response, SLA support, monitoring & logs  
+
+---
+
+## 📌 How to Use This Profile
+If you’re recruiting for cloud operations, infrastructure support, or site reliability roles, start with the pinned repos above — they align directly with real problems I’ve solved operationally.
+
+Feel free to reach out! ✉️
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakone/)](https://www.linkedin.com/in/djakone/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/Newsletter-FF0000?style=flat-square&logo=convertkit&logoColor=white&link=https://www.whatsnewcloud.com/)](https://www.whatsnewcloud.com/)
-
-
----
-
-## Latest Projects
-
-- [Automated Image Analysis in a Photo-Sharing App using Python on AWS](https://github.com/djcloudking/photo-sharing-application-project)
-- [Automated a Serverless Coffee Shop API on AWS](https://github.com/djcloudking/coffee-shop-crud-api-node-js-project)
-- [Built a Spotify playlist using Terraform](https://cloudwithdj.com/creating-a-spotify-playlist-with-terraform/).
-- [Built a production-ready React app using scripts on GitHub Pages](https://cloudwithdj.com/i-built-a-production-ready-react-app-and-deployed-it-with-github-pages/)
-
-
-[Find more Projects ](https://github.com/djcloudking?tab=repositories)
-
-
----
-
-## Latest Blogs
-
-- <a href="https://cloudwithdj.com/10-concepts-to-learn-to-get-started-with-terraform/"> 10 concepts to learn to get started with Terraform </a>
-- <a href="https://cloudwithdj.com/how-i-troubleshoot-when-aws-budgets-dont-send-alerts/"> How I Troubleshoot When AWS Budgets Don’t Send Alerts </a>
-- <a href="https://cloudwithdj.com/10-ci-cd-concepts-you-should-learn/"> 10 CI/CD Concepts You Should Learn </a>
-- <a href="https://cloudwithdj.com/using-terraform-to-deploy-a-web-server-and-run-a-bootstrap-script/">Using Terraform To Deploy a Web Server and Run a Bootstrap Script </a>
-
-
-[Find more blog posts](https://cloudwithdj.com)
-  
 
 ---
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=djcloudking%2Fdjcloudking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=djcloudking%2Fdjcloudking)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=djcloudking&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcloudking&hide=TeX&layout=compact) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djcloudking&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
